@@ -135,7 +135,8 @@ plt.show()
 <img width="994" height="322" alt="Screenshot 2026-05-27 105610" src="https://github.com/user-attachments/assets/d3b68b19-6715-481d-a064-3f23e7bb122f" />
 <img width="432" height="211" alt="Screenshot 2026-05-27 105621" src="https://github.com/user-attachments/assets/612e2352-42d8-4631-ac0a-46b3a25fa685" />
 <img width="1184" height="358" alt="Screenshot 2026-05-27 105657" src="https://github.com/user-attachments/assets/82d7043c-cb19-4f59-b6a2-409a8460e7ba" />
-<img width="1184" height="358" alt="Screenshot 2026-05-27 105657" src="https://github.com/user-attachments/assets/f1496ec0-e14c-4df3-bdb9-0ea97899007f" />
+<img width="1196" height="334" alt="Screenshot 2026-05-27 110130" src="https://github.com/user-attachments/assets/ad70c7ff-139a-4750-ae67-01acf7ee093b" />
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
